@@ -16,7 +16,7 @@
 - Perform required setup for K8S from guideliness before 
 
 
-### Required Settings for K8S
+### Required Settings for K3S
 
 #### cmdline.txt
 - Add at the end   cgroup_memory=1 cgroup_enable=memory
@@ -24,6 +24,8 @@
 - Add at the end arm_64bit=1
 - To ensure it will run 64bit version of Raspbian.
 
+### Simple install command for K3S
+curl -sfL https://get.k3s.io | sh -s - --write-kubeconfig-mode 644
 
 
 
