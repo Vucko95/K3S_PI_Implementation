@@ -24,6 +24,6 @@
 - Add at the end arm_64bit=1
 - To ensure it will run 64bit version of Raspbian.
 
-#### Note: Please do not put the project link to reference your local forked repo. Always link it to this repo after it's been merged with main.
 
-## Projects
+
+
