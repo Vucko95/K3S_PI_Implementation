@@ -25,7 +25,7 @@
 - Add at the end arm_64bit=1
 - To ensure it will run 64bit version of Raspbian.
 
-#### One command K3S Setup
+### One command K3S Setup
 
 - SSH into Pi Machine
 - Execute command "curl -sfL https://get.k3s.io | sh -"
