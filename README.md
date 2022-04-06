@@ -28,5 +28,6 @@
 
 ### One command K3S Setup
 
+
 - SSH into Pi Machine
 - Execute command "curl -sfL https://get.k3s.io | sh -"
